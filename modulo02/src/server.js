@@ -1,3 +1,3 @@
-import App from "./app";
+import app from './app';
 
-App.listen(3344);
+app.listen(3344);
